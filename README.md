@@ -14,7 +14,7 @@ MK_PASS = '123'
 
 
 ### code example result
-!(out-put)[https://i.ibb.co/qkZyhBD/testimg.png]
+![out-put](https://i.ibb.co/qkZyhBD/testimg.png)
 
 
 
