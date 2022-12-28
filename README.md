@@ -4,7 +4,7 @@ This is an Mikrotik testing api without certificate, tested on RouterOS 6.47.10!
 
 
 ### Clent credentials:
-Please, before this, check api_port(8728) already acivated or change api_port adding 'port=' parameter on connection.
+Please, check api_port(8728) already activated on ip/services section or change api_port  adding 'port=' parameter on connection if necessary.
 
 ```python
 MK_ADDRESS = '192.168.40.1'
